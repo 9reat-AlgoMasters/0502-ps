@@ -1,4 +1,4 @@
-# 0501 Problem Solving
+# 0502 Problem Solving
 - platform : Programmers
 
 ## List
